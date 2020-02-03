@@ -9,9 +9,9 @@ public class MainMenu : MonoBehaviour {
   }
 
   public void Play2()
-    {
+  {
         SceneManager.LoadScene("RulesCredits");
-    }
+  }
 
   public void Quit()
   {
